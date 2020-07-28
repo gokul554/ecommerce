@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10078" started-at="2020-07-21T23:11:20 BST" finished-at="2020-07-21T23:11:30 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10078" started-at="2020-07-21T23:11:20 BST" finished-at="2020-07-21T23:11:30 BST">
+      <class name="tests.GKartAPP">
+        <test-method status="PASS" signature="InitBrowser()[pri:0, instance:tests.GKartAPP@30b8a058]" name="InitBrowser" is-config="true" duration-ms="3714" started-at="2020-07-21T23:11:20 BST" finished-at="2020-07-21T23:11:24 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitBrowser -->
+        <test-method status="PASS" signature="ApplicationURL()[pri:0, instance:tests.GKartAPP@30b8a058]" name="ApplicationURL" is-config="true" duration-ms="1722" started-at="2020-07-21T23:11:24 BST" finished-at="2020-07-21T23:11:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationURL -->
+        <test-method status="PASS" signature="Cart()[pri:0, instance:tests.GKartAPP@30b8a058]" name="Cart" duration-ms="694" started-at="2020-07-21T23:11:26 BST" finished-at="2020-07-21T23:11:26 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cart -->
+        <test-method status="PASS" signature="ApplicationURL()[pri:0, instance:tests.GKartAPP@30b8a058]" name="ApplicationURL" is-config="true" duration-ms="797" started-at="2020-07-21T23:11:26 BST" finished-at="2020-07-21T23:11:27 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationURL -->
+        <test-method status="PASS" signature="Contact_Us()[pri:0, instance:tests.GKartAPP@30b8a058]" name="Contact_Us" duration-ms="1326" started-at="2020-07-21T23:11:27 BST" finished-at="2020-07-21T23:11:28 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_Us -->
+        <test-method status="PASS" signature="ApplicationURL()[pri:0, instance:tests.GKartAPP@30b8a058]" name="ApplicationURL" is-config="true" duration-ms="867" started-at="2020-07-21T23:11:28 BST" finished-at="2020-07-21T23:11:29 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationURL -->
+        <test-method status="PASS" signature="Search()[pri:0, instance:tests.GKartAPP@30b8a058]" name="Search" duration-ms="242" started-at="2020-07-21T23:11:29 BST" finished-at="2020-07-21T23:11:29 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="CleanUP()[pri:0, instance:tests.GKartAPP@30b8a058]" name="CleanUP" is-config="true" duration-ms="659" started-at="2020-07-21T23:11:29 BST" finished-at="2020-07-21T23:11:30 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUP -->
+      </class> <!-- tests.GKartAPP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

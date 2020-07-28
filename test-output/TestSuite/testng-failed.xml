@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
+  <test thread-count="5" name="RegressionTest(failed)">
+    <classes>
+      <class name="tests.GKartAPP">
+        <methods>
+          <include name="CleanUP"/>
+          <include name="Account"/>
+          <include name="ApplicationURL"/>
+          <include name="InitBrowser"/>
+        </methods>
+      </class> <!-- tests.GKartAPP -->
+    </classes>
+  </test> <!-- RegressionTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
